@@ -1,3 +1,15 @@
 Version 0.01
 
 Author: Knut Funkel
+
+COMPILE:
+
+C:\Storage\HelloPurpleWorld>scalac basic.scala
+
+RUN WITH:
+C:\Storage\HelloPurpleWorld>scala Main -h
+Usage: scala Main [-help|-verbose]
+
+C:\Storage\HelloPurpleWorld>scala Main -v
+How are you today?
+
