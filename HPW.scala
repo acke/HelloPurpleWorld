@@ -7,7 +7,7 @@ object HPW {
   def main(args: Array[String]) {
     for (a <- args) a match {
       case "-h" | "-help"    =>
-        println("Usage: scala Main [-help|-verbose]")
+        println("Usage: scala Main [-help|-verbose|-clean]")
       case "-v" | "-verbose" =>
         verbose = true
       case "-c" | "-clean" =>
