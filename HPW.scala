@@ -1,5 +1,5 @@
 /** Basic command line parsing. */
-object Main {
+object HPW {
   var verbose = false
 
   def main(args: Array[String]) {
