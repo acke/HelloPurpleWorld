@@ -1,15 +1,15 @@
-Version 0.01
+Main Version 0.01
 
 Author: Knut Funkel
 
 COMPILE:
 
-C:\Storage\HelloPurpleWorld>scalac basic.scala
+C:\Storage\HelloPurpleWorld>scalac HPW.scala
 
 RUN WITH:
-C:\Storage\HelloPurpleWorld>scala Main -h
+C:\Storage\HelloPurpleWorld>scala HPW -h
 Usage: scala Main [-help|-verbose]
 
-C:\Storage\HelloPurpleWorld>scala Main -v
+C:\Storage\HelloPurpleWorld>scala HPW -v
 How are you today?
 
